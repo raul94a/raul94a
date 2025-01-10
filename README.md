@@ -49,6 +49,9 @@ See my projects in my [portfolio](https://raulalbin.es/portfolio).
 - **[GastApp](https://play.google.com/store/apps/details?id=com.raa.gasty&hl=en)**  
   Manage personal finances or group finances with family or friends. You can register expenses and share them within a group. The app calculates the quantities for each member of the group. Explore it in [here](https://play.google.com/store/apps/details?id=com.raa.gasty&hl=en).
 
+- **[Deep Linking](https://github.com/raul94a/deep_linking)**  
+Example configuration for deep linking in Flutter.
+
 - **[Dribble financial](https://github.com/raul94a/dribbble_financial)**  
   Description: Dribbble design challenge.
 
